@@ -6,10 +6,10 @@ If the book is updated, feel free to fork this repository and send me a PR.
 1. Jerry Solomon "Christians & Culture"
   * [Original](http://www.leaderu.com/orgs/probe/docs/xns_cult.html)
   * [Archived](https://web.archive.org/web/20120523015434/http://www.leaderu.com/orgs/probe/docs/xns_cult.html)
-1. Morris Weitz "Role of Theory in Aethetics"
+2. Morris Weitz "Role of Theory in Aethetics"
   * [Original](https://www2.hawaii.edu/~freeman/courses/phil330/24.%20The%20Role%20of%20Theory%20in%20Aesthetics.pdf)
   * [Archived](https://web.archive.org/web/20220105132932/http://www2.hawaii.edu/~freeman/courses/phil330/24.%20The%20Role%20of%20Theory%20in%20Aesthetics.pdf)
-1. Albert Mohler "A Christian Vision of Beauty"
+3. Albert Mohler "A Christian Vision of Beauty"
   * Part 1
     * [Original](https://albertmohler.com/2005/11/16/a-christian-vision-of-beauty-part-one)
     * [Archived](https://web.archive.org/web/20220110051919/https://albertmohler.com/2005/11/16/a-christian-vision-of-beauty-part-one)
@@ -19,15 +19,15 @@ If the book is updated, feel free to fork this repository and send me a PR.
   * Part 3
     * [Original](https://albertmohler.com/2005/11/18/a-christian-vision-of-beauty-part-three)
     * [Archived](https://web.archive.org/web/20201025061804/https://albertmohler.com/2005/11/18/a-christian-vision-of-beauty-part-three)  
-1. Darren Hick "On art & Beauty"
+4. Darren Hick "On art & Beauty"
   * Couldn't find it online but it's only one page so ¯\_(ツ)_/¯
   * The main point is that aesthetics =/= philosophy of art even though they are often lumped together
-1. Philip Graham Ryken "Art & the Church"
+5. Philip Graham Ryken "Art & the Church"
   * [Original](https://content.wtsbooks.com/shopify/pdf_links/9781596380073.pdf) pages 7-9
   * [Archived](https://web.archive.org/web/20210613030117/https://content.wtsbooks.com/shopify/pdf_links/9781596380073.pdf)
-1. Francis A. Schaeffer "Art and the Bible" (selections)
+6. Francis A. Schaeffer "Art and the Bible" (selections)
   * [Original](https://na06.alma.exlibrisgroup.com/view/action/uresolver.do?operation=resolveService&package_service_id=11330986950005611&institutionId=5611&customerId=5610) Pages 13-27, 49-57, 61, 75-76 (requires BJU login)
   *  No archive available
-1. Jeanne Torrence Finley "Ministry and Art"
+7. Jeanne Torrence Finley "Ministry and Art"
   * [Original](https://www.ministrymatters.com/all/entry/3962/ministry-and-art)
   * [Archived](https://web.archive.org/web/20171025071205/http://www.ministrymatters.com/all/entry/3962/ministry-and-art)
